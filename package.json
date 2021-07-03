@@ -1,0 +1,36 @@
+{
+  "name": "coingecko-graphql-api-express",
+  "version": "0.1.0",
+  "description": "An unofficial GraphQL implementation of the Coingecko API",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karadalex/coingecko-graphql-api-express.git"
+  },
+  "keywords": [
+    "coingecko",
+    "api",
+    "graphql",
+    "bitcoin",
+    "ethereum",
+    "cryptocurrency",
+    "express",
+    "apollo"
+  ],
+  "author": "Alexios Karadimos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karadalex/coingecko-graphql-api-express/issues"
+  },
+  "homepage": "https://github.com/karadalex/coingecko-graphql-api-express#readme",
+  "dependencies": {
+    "apollo-server-micro": "^2.25.2",
+    "graphql": "^15.5.1"
+  }
+}
